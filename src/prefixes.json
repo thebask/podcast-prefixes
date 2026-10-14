@@ -117,7 +117,7 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "prefixurl": "https:\/\/podseo.com\/",
-        "prefixprivacyurl": "https:\/\/podseo.com\/privacy-policy\/",
+        "prefixprivacyurl": "https:\/\/podseo.com\/hoprfm\/privacy\/",
         "notes": "Download-counting redirect run by PodSEO. Enclosure URLs look like https:\/\/hopr.fm\/k\/<account key>\/<original host>\/<file>; it answers 302 to the original file, never serves or alters audio, and does not insert ads."
     },
     {
